@@ -11,4 +11,4 @@ python3 alien_invasion.py
 
 Enjoy!
 
-Credits to python crash course book!
+Credit:Python Crash Course book
