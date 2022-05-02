@@ -35,10 +35,10 @@ $ git clone https://github.com/bluedrummer/AlienInvasion.git
 $ cd AlienInvasion
 ```
 
-### Running 
+### Running
 
 ```
 $ python3 alien_invasion.py
-``` 
+```
 
-Enjoy!
+Enjoy!!
